@@ -25,5 +25,5 @@ end
 
 def square_root(num)
   result = num.sqrt
-
+  return result
 end
